@@ -1,0 +1,32 @@
+{
+    "manifest_version": 3,
+    "name": "Instagram DP Viewer",
+    "version": "1.0.1",
+    "description": "Lets the User View or download the Instagram DP of anyone",
+    "author": "Siddharth Pradeep",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Instagram DP Viewer"
+    },
+    "permissions": [
+        "tabs",
+        "contextMenus"
+    ],
+    
+    "background": {
+        "scripts_worker": ["background.js"]
+        
+    },
+    "icons": {
+        "16": "Icons/image.png",
+        "32": "Icons/image.png",
+        "48": "Icons/image.png",
+        "128":"Icons/image.png"
+       },
+       "host_permissions": [
+        "https://www.instagram.com/*"
+      ]
+    
+    
+    
+    }
