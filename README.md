@@ -6,7 +6,7 @@ Clicking on the extension in your browser, while being in the instagram page of 
 
 ## Using
 
-Fork and clone this repository (forking is optional), go to [chrome://extensions](chrome://extensions) in your chromium based browser, enable developer mode (*it should be on the top-right corner*) and click on the 'Load unpacked'  button and select the folder of this repository in your computer. Thats it you should be good to go!.
+Fork and clone this repository (forking is neccessary if you want to make changes/contribute), go to [chrome://extensions](chrome://extensions) in your chromium based browser, enable developer mode (*it should be on the top-right corner*) and click on the 'Load unpacked'  button and select the folder of this repository in your computer. Thats it you should be good to go!.
 
 ## Author
 
